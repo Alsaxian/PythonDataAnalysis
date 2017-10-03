@@ -1,5 +1,5 @@
 ## Python data analysis with pandas, scikit-learn etc.
 
-## Projects list
+### Projects list
 ___
-1. _French circonscription counting_
+1. French circonscription counting
